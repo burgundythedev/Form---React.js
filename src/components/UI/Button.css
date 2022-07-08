@@ -1,0 +1,9 @@
+.global-button {
+    font-size: 30px;
+    color: white;
+    background-color: #002157;
+    margin-left: 390px;
+    margin-top: 10px;
+    border-radius: 15px;
+    width: 100px;
+}
