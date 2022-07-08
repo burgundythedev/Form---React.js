@@ -1,0 +1,30 @@
+.global-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: solid #002157;
+    padding: 15px;
+    
+}
+
+.input1 {   
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input2 {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+div > label {
+    font-size: 20px;
+    font-weight: 900;
+    color: #002157;
+}
+
